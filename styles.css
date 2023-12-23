@@ -6,3 +6,12 @@
 #container {
   display: flex;
 }
+
+.col,
+.row {
+  border: solid black 1px;
+  background-color: #C5CDBD;
+  height: 25px;
+  width: 25px;
+}
+
