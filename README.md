@@ -1,5 +1,7 @@
 #Odin Etch-a-Sketch
 
+live Preview: https://ruddyduckling.github.io/odin-etch-a-sketch/
+
 My take on the Etch-a-sketch project from The Odin Project: Foundations.
 
 Specific skills used: CSS Flexbox, javascript DOM Manipulation, javascript Event Listeners.
